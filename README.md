@@ -6,4 +6,4 @@ References:
 
 •	phd2020/transcriptomics at master · sysmedicine/phd2020. (n.d.). Retrieved December 13, 2023, from https://github.com/sysmedicine/phd2020/tree/master/transcriptomics
 
-•	SysBioChalmers/Human-GEM: The generic genome-scale metabolic model of Homo sapiens. (n.d.). Retrieved December 14, 2023, from https://github.com/SysBioChalmers/Human-GEM
+•	SysBioChalmers/Human-GEM: The generic genome-scale metabolic model of Homo sapiens. (n.d.). Retrieved December 13, 2023, from https://github.com/SysBioChalmers/Human-GEM
